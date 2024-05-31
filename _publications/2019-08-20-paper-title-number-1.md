@@ -2,7 +2,7 @@
 title: "A Distributed Topic Model for Large-Scale Streaming Text"
 collection: publications
 permalink: /publication/2019-08-20-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Learning topic information from large-scale unstructured text has attracted extensive attention from both the academia and industry. Topic models, such as LDA and its variants, are a popular machine learning technique to discover such latent structure. Among them, online variational hierarchical Dirichlet process (onlineHDP) is a promising candidate for dynamically processing streaming text. Instead of a static assignment in advance, the number of topics in onlineHDP is inferred from the corpus as the training process proceeds. However, when dealing with large scale streaming data it still suffers from the limited model capacity problem. To this end, we proposed a distributed version of the onlineHDP algorithm (named as DistHDP) in this paper, the training task is split into many sub-batch tasks and distributed across multiple worker nodes, such that the whole training process is accelerated. The model convergence is guaranteed through a distributed variation inference algorithm. Extensive experiments conducted on several real-world datasets demonstrate the usability and scalability of the proposed algorithm.'
 date: 2019-08-20
 venue: 'International Conference on Knowledge Science, Engineering and Management'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-29563-9_4'
