@@ -40,13 +40,13 @@ News
 - Yicong is invited as a PC Member of The 21st Pacific Rim International Conference on Artificial Intelligence ([PRICAI 2024](https://www.pricai.org/2024/)) conference (**CCF C, CORE B**).
 - Yicong is invited to give a talk at the Artificial Intelligence and Future Network Research Institute, Beijing Normal University, Zhuhai.
 - The first-authored paper "[Attention Is Not the Only Choice: Counterfactual Reasoning for Path-based Explainable Recommendation](https://arxiv.org/pdf/2401.05744.pdf)" has been accepted by IEEE TKDE (**CCF A, CORE A***).
-- The co-authored paper "[An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://neurips.cc/virtual/2023/poster/71323)" has been accepted by NeurIPS 2023 (CCF A, CORE A*).
-- The first-authored paper "[Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a-uKBooAAAAJ&sortby=pubdate&citation_for_view=a-uKBooAAAAJ:YOwf2qJgpHMC)" has been accepted by IEEE TKDE (CCF A, CORE A*).
-- The co-authored paper "[DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3511808.3557280)" has been accepted by CIKM 2022 (CCF B, CORE A).
-- The co-authored paper "[Unsupervised graph poisoning attack via contrastive loss back-propagation](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512179)" has been accepted by WWW2022 (CCF A, CORE A*).
-- I am very delighted that our tutorial "[Graph Data Mining in Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_36)" has been accepted by WISE 2022 (CCF C, CORE B).
-- The first-authored paper "[Hyperbolic hypergraphs for sequential recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482351)" has been accepted by CIKM 2021 (CCF B, CORE A).
-- The first-authored paper "[Temporal Meta-path Guided Explainable Recommendation](https://dl.acm.org/doi/10.1145/3437963.3441762)" has been accepted by WSDM 2021 (CCF B, CORE A*).
+- The co-authored paper "[An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://neurips.cc/virtual/2023/poster/71323)" has been accepted by NeurIPS 2023 (**CCF A, CORE A***).
+- The first-authored paper "[Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a-uKBooAAAAJ&sortby=pubdate&citation_for_view=a-uKBooAAAAJ:YOwf2qJgpHMC)" has been accepted by IEEE TKDE (**CCF A, CORE A***).
+- The co-authored paper "[DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3511808.3557280)" has been accepted by CIKM 2022 (**CCF B, CORE A**).
+- The co-authored paper "[Unsupervised graph poisoning attack via contrastive loss back-propagation](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512179)" has been accepted by WWW2022 (**CCF A, CORE A***).
+- I am very delighted that our tutorial "[Graph Data Mining in Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_36)" has been accepted by WISE 2022 (**CCF C, CORE B**).
+- The first-authored paper "[Hyperbolic hypergraphs for sequential recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482351)" has been accepted by CIKM 2021 (**CCF B, CORE A**).
+- The first-authored paper "[Temporal Meta-path Guided Explainable Recommendation](https://dl.acm.org/doi/10.1145/3437963.3441762)" has been accepted by WSDM 2021 (**CCF B, CORE A***).
 - The co-authored paper "[An adversarial feature distillation method for audio classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8778636)" has been accepted by IEEE Access. 
 - The first-authored paper "[A distributed topic model for large-scale streaming text](https://link.springer.com/chapter/10.1007/978-3-030-29563-9_4)" has been accepted by KSEM 2019 (CCF C, CORE B).
 
