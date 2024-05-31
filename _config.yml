@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yicong Li"
+title                    : "Yicong Li (李逸聪)"
 title_separator          : "-"
-name                     : &name "Yicong Li"
+name                     : &name "Yicong Li (李逸聪)"
 description              : &description "personal description"
 url                      : https://abigale001.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
