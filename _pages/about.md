@@ -54,4 +54,4 @@ News
 
 Contact
 ------
-If you are interested in my research, feel free to [contact me](liyicong123@outlook.com). Welcome collaboration!
+If you are interested in my research, feel free to [contact me](mailto:liyicong123@outlook.com) . Welcome collaboration!
