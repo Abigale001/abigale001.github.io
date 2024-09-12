@@ -1,0 +1,23 @@
+---
+title: "Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation"
+collection: publications
+permalink: /publication/2024-09-01-TKDE
+excerpt: “Compared with only pursuing recommendation accuracy, the explainability of a recommendation model has drawn more attention in recent years. Many graph-based recommendations resort to informative paths with the attention mechanism for the explanation. Unfortunately, these attention weights are intentionally designed for model accuracy but not explainability. Recently, some researchers have started to question attention-based explainability because the attention weights are unstable for different reproductions, and they may not always align with human intuition. Inspired by the counterfactual reasoning from causality learning theory, we propose a novel explainable framework targeting path-based recommendations, wherein the explainable weights of paths are learned to replace attention weights. Specifically, we design two counterfactual reasoning algorithms from both path representation and path topological structure perspectives. Moreover, unlike traditional case studies, we also propose a package of explainability evaluation solutions with both qualitative and quantitative methods. We conduct extensive experiments on four real-world datasets, the results of which further demonstrate the effectiveness and reliability of our method.”
+date: 
+venue: 'IEEE Transactions on Knowledge and Data Engineering'
+paperurl: 'https://arxiv.org/pdf/2401.05744'
+citation: 'Yicong, Li. (2024). &quot;Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation.&quot; <i>IEEE Transactions on Knowledge and Data Engineering</i>.'
+---
+
+Compared with only pursuing recommendation accuracy, the explainability of a recommendation model has drawn more attention in recent years. Many graph-based recommendations resort to informative paths with the attention mechanism for the explanation. Unfortunately, these attention weights are intentionally designed for model accuracy but not explainability. Recently, some researchers have started to question attention-based explainability because the attention weights are unstable for different reproductions, and they may not always align with human intuition. Inspired by the counterfactual reasoning from causality learning theory, we propose a novel explainable framework targeting path-based recommendations, wherein the explainable weights of paths are learned to replace attention weights. Specifically, we design two counterfactual reasoning algorithms from both path representation and path topological structure perspectives. Moreover, unlike traditional case studies, we also propose a package of explainability evaluation solutions with both qualitative and quantitative methods. We conduct extensive experiments on four real-world datasets, the results of which further demonstrate the effectiveness and reliability of our method.
+
+[Download paper here](https://arxiv.org/pdf/2401.05744)
+
+Recommended citation:
+>@article{li2024attention,
+>  title={Attention is not the only choice: counterfactual reasoning for path-based explainable recommendation},
+>  author={Li, Yicong and Sun, Xiangguo and Chen, Hongxu and Zhang, Sixiao and Yang, Yu and Xu, Guandong},
+>  journal={IEEE Transactions on Knowledge and Data Engineering},
+>  year={2024},
+>  publisher={IEEE}
+>}
