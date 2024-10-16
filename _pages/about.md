@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yicong Li is currently a fourth-year PhD student in the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate). During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, the collaborative supervisors are [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
+Yicong Li is now a research assistant at the Education University of Hong Kong. She has graduated from the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate) in 2024. During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, the collaborative supervisors are [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
 
 She obtained her Master's degree from the National University of Defense Technology in Dec 2019. The supervisors were Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
@@ -33,10 +33,14 @@ Previous research interests:
 
 News
 ======
-- The first-authored paper "Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach" has been accepted by ACM KDD 2024 (**CCF A, CORE A***).
+- Yicong is invited as a PC Member of ICLR 2025.
+- Yicong is invited to give a talk at the School of Computer Science and Technology, East China Normal University.
+- Yicong is invited as a PC Member of ACM KDD 2025.
+- The first-authored paper, "[Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach](https://arxiv.org/abs/2406.13201.pdf)" has been accepted by ACM KDD 2024 (**CCF A, CORE A***).
 - Yicong's Thesis Has Got **Satisfactory** Scores!
 - Yicong is invited as a PC Member of The 11th International Conference on Behavioural and Social Computing ([BESC 2024](http://besc-conf.org/2024/)) conference.
 - Yicong is invited as a reviewer of the Journal of Social Computing.
+- The co-authored paper "[Low-Resource Court Judgment Summarization for Common Law Systems](https://arxiv.org/pdf/2403.04454)" has been accepted by Information Processing & Management. (中科院一区top)
 - Yicong is invited as a PC Member of The 21st Pacific Rim International Conference on Artificial Intelligence ([PRICAI 2024](https://www.pricai.org/2024/)) conference (**CCF C, CORE B**).
 - Yicong is invited to give a talk at the Artificial Intelligence and Future Network Research Institute, Beijing Normal University, Zhuhai.
 - The first-authored paper "[Attention Is Not the Only Choice: Counterfactual Reasoning for Path-based Explainable Recommendation](https://arxiv.org/pdf/2401.05744.pdf)" has been accepted by IEEE TKDE (**CCF A, CORE A***).
