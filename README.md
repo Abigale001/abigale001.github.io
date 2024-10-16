@@ -1,9 +1,3 @@
-TODO:
-
-- publication报错，ksem不报错，但是其他都报错，可以尝试copy template重新输入；也可以用ipy文件生成
-- navigator修改
-- talk没更新成功
-- publication如何update? 通过什么update？
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
