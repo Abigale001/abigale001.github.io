@@ -34,7 +34,7 @@ Previous research interests:
 News
 ======
 - Yicong is invited as a PC Member of ICLR 2025.
-- The second author paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion" has been accepted by the 32d International Conference on Computers in Education.
+- The second-authored paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion", has been accepted by the 32nd International Conference on Computers in Education (ICCE).
 - Yicong is invited to give a talk at the School of Computer Science and Technology, East China Normal University.
 - Yicong is invited as a PC Member of ACM KDD 2025.
 - The first-authored paper, "[Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach](https://arxiv.org/abs/2406.13201.pdf)" has been accepted by ACM KDD 2024 (**CCF A, CORE A***).
