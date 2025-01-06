@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yicong Li is now a research assistant at the Education University of Hong Kong. She has graduated from the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate) in 2024. During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, the collaborative supervisors are [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
+Yicong Li is now an associate professor at the Nanjing University of Aeronautics and Astronautics (NUAA). She has graduated from the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate) in 2024. During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, the collaborative supervisors are [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
 
 She obtained her Master's degree from the National University of Defense Technology in Dec 2019. The supervisors were Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
@@ -33,6 +33,7 @@ Previous research interests:
 
 News
 ======
+- Yicong has joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
 - Yicong is invited as a PC Member of ICLR 2025.
 - The second-authored paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion", has been accepted by the 32nd International Conference on Computers in Education (ICCE).
 - Yicong is invited to give a talk at the School of Computer Science and Technology, East China Normal University.
