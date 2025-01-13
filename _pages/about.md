@@ -33,6 +33,7 @@ Previous research interests:
 
 News
 ======
+- Yicong has been invited as an honored guest at the CCF YOCSEF Nanjing forum “Decoding the information cocoon: Dilemma and breakthrough”.
 - Yicong has joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
 - Yicong is invited as a PC Member of ICLR 2025.
 - The second-authored paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion", has been accepted by the 32nd International Conference on Computers in Education (ICCE).
