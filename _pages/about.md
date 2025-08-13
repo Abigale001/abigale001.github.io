@@ -37,20 +37,21 @@ News
   * NR-GCF: Graph Collaborative Filtering with Improved Noise Resistance
   * Multimodal Sentiment Analysis with Multi-Perspective Thinking via Large Multimodal Models
 - Our paper "AGT2:Learning User Preferences for Next POI Recommendation via Adaptive Graph and Time Tree" has been accepted by the conference [ADMA 2025](https://adma2025.github.io/) (**CORE C, CCF C**).
-- Our paper "MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CORE A\*, CCF B**).
+- I am happy to be invited as a Programme Committee Member in many conferences, including [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [NeurIPS 2025](https://neurips.cc/), [SIGIR 2025](https://sigir2025.dei.unipd.it/), [WSDM 2026](https://wsdm-conference.org/2026/), [PRICAI 2025](https://www.pricai.org/2025/), [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/index.html), and [IEEE DSC 2025](http://dsc.pcl.ac.cn/2025/index.html).
+- Our paper "MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CORE A\*, CCF A**).
 - Yicong has been invited as an honored guest at the CCF YOCSEF Nanjing forum “Decoding the information cocoon: Dilemma and breakthrough”.
-- Yicong has joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
-- Yicong is invited as a PC Member of ICLR 2025.
+- I have joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
+- I am invited as a PC Member of ICLR 2025.
 - The second-authored paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion", has been accepted by the 32nd International Conference on Computers in Education (ICCE).
-- Yicong is invited to give a talk at the School of Computer Science and Technology, East China Normal University.
-- Yicong is invited as a PC Member of ACM KDD 2025.
+- I am invited to give a talk at the School of Computer Science and Technology, East China Normal University.
+- I am invited as a PC Member of ACM KDD 2025.
 - The first-authored paper, "[Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach](https://arxiv.org/abs/2406.13201.pdf)" has been accepted by ACM KDD 2024 (**CCF A, CORE A***).
-- Yicong's Thesis Has Got **Satisfactory** Scores!
-- Yicong is invited as a PC Member of The 11th International Conference on Behavioural and Social Computing ([BESC 2024](http://besc-conf.org/2024/)) conference.
-- Yicong is invited as a reviewer of the Journal of Social Computing.
+- My Thesis Has Got **Satisfactory** Scores!
+- I am invited as a PC Member of The 11th International Conference on Behavioural and Social Computing ([BESC 2024](http://besc-conf.org/2024/)) conference.
+- I am invited as a reviewer of the Journal of Social Computing.
 - The co-authored paper "[Low-Resource Court Judgment Summarization for Common Law Systems](https://arxiv.org/pdf/2403.04454)" has been accepted by Information Processing & Management. (中科院一区top)
-- Yicong is invited as a PC Member of The 21st Pacific Rim International Conference on Artificial Intelligence ([PRICAI 2024](https://www.pricai.org/2024/)) conference (**CCF C, CORE B**).
-- Yicong is invited to give a talk at the Artificial Intelligence and Future Network Research Institute, Beijing Normal University, Zhuhai.
+- I am invited as a PC Member of The 21st Pacific Rim International Conference on Artificial Intelligence ([PRICAI 2024](https://www.pricai.org/2024/)) conference (**CCF C, CORE B**).
+- I am invited to give a talk at the Artificial Intelligence and Future Network Research Institute, Beijing Normal University, Zhuhai.
 - The first-authored paper "[Attention Is Not the Only Choice: Counterfactual Reasoning for Path-based Explainable Recommendation](https://arxiv.org/pdf/2401.05744.pdf)" has been accepted by IEEE TKDE (**CCF A, CORE A***).
 - The co-authored paper "[An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://neurips.cc/virtual/2023/poster/71323)" has been accepted by NeurIPS 2023 (**CCF A, CORE A***).
 - The first-authored paper "[Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a-uKBooAAAAJ&sortby=pubdate&citation_for_view=a-uKBooAAAAJ:YOwf2qJgpHMC)" has been accepted by IEEE TKDE (**CCF A, CORE A***).
