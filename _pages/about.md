@@ -33,6 +33,11 @@ Previous research interests:
 
 News
 ======
+- We have 2 research papers accepted by the top conference [CIKM 2025](https://cikm2025.org/) (**CORE A, CCF B**).
+  * NR-GCF: Graph Collaborative Filtering with Improved Noise Resistance
+  * Multimodal Sentiment Analysis with Multi-Perspective Thinking via Large Multimodal Models
+- Our paper "AGT2:Learning User Preferences for Next POI Recommendation via Adaptive Graph and Time Tree" has been accepted by the conference [ADMA 2025](https://adma2025.github.io/) (**CORE C, CCF C**).
+- Our paper "MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CORE A\*, CCF B**).
 - Yicong has been invited as an honored guest at the CCF YOCSEF Nanjing forum “Decoding the information cocoon: Dilemma and breakthrough”.
 - Yicong has joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
 - Yicong is invited as a PC Member of ICLR 2025.
