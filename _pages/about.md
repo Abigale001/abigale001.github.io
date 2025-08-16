@@ -63,7 +63,11 @@ News
 - The co-authored paper "[An adversarial feature distillation method for audio classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8778636)" has been accepted by IEEE Access. 
 - The first-authored paper "[A distributed topic model for large-scale streaming text](https://link.springer.com/chapter/10.1007/978-3-030-29563-9_4)" has been accepted by KSEM 2019 (CCF C, CORE B).
 
+Teaching
+======
+Data Fusion and Intelligent Analysis（数据融合与智能分析）
 
+Experiment of Data Fusion and Intelligent Analysis （数据融合与智能分析实验）
 
 Contact
 ------
