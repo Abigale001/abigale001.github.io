@@ -38,7 +38,7 @@ News
   * Multimodal Sentiment Analysis with Multi-Perspective Thinking via Large Multimodal Models
 - Our paper "AGT2:Learning User Preferences for Next POI Recommendation via Adaptive Graph and Time Tree" has been accepted by the conference [ADMA 2025](https://adma2025.github.io/) (**CORE C, CCF C**).
 - I am happy to be invited as a Programme Committee Member in many conferences, including [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [NeurIPS 2025](https://neurips.cc/), [SIGIR 2025](https://sigir2025.dei.unipd.it/), [WSDM 2026](https://wsdm-conference.org/2026/), [PRICAI 2025](https://www.pricai.org/2025/), [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/index.html), and [IEEE DSC 2025](http://dsc.pcl.ac.cn/2025/index.html).
-- Our paper "MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CORE A\*, CCF A**).
+- Our paper "[MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning](https://arxiv.org/pdf/2505.10289)" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CORE A\*, CCF A**).
 - Yicong has been invited as an honored guest at the CCF YOCSEF Nanjing forum “Decoding the information cocoon: Dilemma and breakthrough”.
 - I have joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
 - I am invited as a PC Member of ICLR 2025.
