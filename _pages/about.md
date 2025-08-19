@@ -13,12 +13,13 @@ Yicong Li is now an associate professor at the Nanjing University of Aeronautics
 She obtained her Master's degree from the National University of Defense Technology in Dec 2019. The supervisors were Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
 
-
-
+<!--
 $$\textcolor{red}{Recurting!\space I\space am\space actively\space recruiting\space self-motivated\space MSc\space and\space Research\space Assistants.\space Send\space me\space an\space email\space if\space you\space are\space interested.}$$
+-->
 
+**Recruiting! I am actively recruiting self-motivated MSc and Research Assistants. Send me email if you are interested.**
 
-$$\textcolor{red}{常年招计算机科学与技术、计算机技术专业硕士生，以及本校实习生，可提前参与科研。}$$
+**常年招计算机科学与技术、计算机技术专业硕士生，以及本校实习生，可提前参与科研。**
 
 Research Interests
 ======
