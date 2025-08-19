@@ -12,7 +12,11 @@ Yicong Li is now an associate professor at the Nanjing University of Aeronautics
 
 She obtained her Master's degree from the National University of Defense Technology in Dec 2019. The supervisors were Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
- 
+
+$${\color{red}Recurting!\space I\space am\space actively\space recruiting\space self-motivated\space MSc\space and\space Research\space Assistants.\space Send\space me\space an\space email\space if\space you\space are\space interested.}$$
+
+$${\color{red}常年招计算机科学与技术、计算机技术专业硕士生，以及本校实习生，可提前参与科研。}$$
+
 
 Research Interests
 ======
@@ -40,13 +44,14 @@ News
 - I am happy to be invited as a Programme Committee Member in many conferences, including [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/), [NeurIPS 2025](https://neurips.cc/), [SIGIR 2025](https://sigir2025.dei.unipd.it/), [WSDM 2026](https://wsdm-conference.org/2026/), [PRICAI 2025](https://www.pricai.org/2025/), [APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/index.html), and [IEEE DSC 2025](http://dsc.pcl.ac.cn/2025/index.html).
 - Our paper "[MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning](https://arxiv.org/pdf/2505.10289)" has been accepted by the top conference [IJCAI 2025](https://2025.ijcai.org/) (**CCF A, CORE A\***).
 - Yicong has been invited as an honored guest at the CCF YOCSEF Nanjing forum “Decoding the information cocoon: Dilemma and breakthrough”.
-- I have joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. ：）  
+- I have joined Nanjing University of Aeronautics and Astronautics as an associate professor and a postgraduate supervisor. :smiley:	
 - I am invited as a PC Member of ICLR 2025.
 - The second-authored paper, "Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion", has been accepted by the 32nd International Conference on Computers in Education (ICCE).
 - I am invited to give a talk at the School of Computer Science and Technology, East China Normal University.
 - I am invited as a PC Member of ACM KDD 2025.
 - The first-authored paper, "[Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach](https://arxiv.org/abs/2406.13201.pdf)" has been accepted by ACM KDD 2024 (**CCF A, CORE A***).
-- My Thesis Has Got **Satisfactory** Scores!
+- I am very happy to be awarded **the Dean's Award** by the University of Technology Sydney! :smiley:	
+- My Thesis Has Got a **Satisfactory** Score!
 - I am invited as a PC Member of The 11th International Conference on Behavioural and Social Computing ([BESC 2024](http://besc-conf.org/2024/)) conference.
 - I am invited as a reviewer of the Journal of Social Computing.
 - The co-authored paper "[Low-Resource Court Judgment Summarization for Common Law Systems](https://arxiv.org/pdf/2403.04454)" has been accepted by Information Processing & Management. (中科院一区top)
