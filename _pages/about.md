@@ -40,6 +40,7 @@ Previous research interests:
 
 News
 ======
+- I have 2 fundings granted, **NSFC Youth Program** and **the Jiangsu Province Foundation for Young Scientists**. The total funding is ￥500,000.
 - We have 2 research papers accepted by the top conference [CIKM 2025](https://cikm2025.org/) (**CCF B, CORE A**).
   * NR-GCF: Graph Collaborative Filtering with Improved Noise Resistance
   * Multimodal Sentiment Analysis with Multi-Perspective Thinking via Large Multimodal Models
@@ -70,6 +71,12 @@ News
 - The first-authored paper "[Temporal Meta-path Guided Explainable Recommendation](https://dl.acm.org/doi/10.1145/3437963.3441762)" has been accepted by WSDM 2021 (**CCF B, CORE A***).
 - The co-authored paper "[An adversarial feature distillation method for audio classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8778636)" has been accepted by IEEE Access. 
 - The first-authored paper "[A distributed topic model for large-scale streaming text](https://link.springer.com/chapter/10.1007/978-3-030-29563-9_4)" has been accepted by KSEM 2019 (CCF C, CORE B).
+
+Funding
+======
+NSFC Youth Program, 2026-2028
+
+The Jiangsu Province Foundation for Young Scientists, 2025-2028
 
 Teaching
 ======
