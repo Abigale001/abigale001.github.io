@@ -80,9 +80,11 @@ The Jiangsu Province Foundation for Young Scientists, 2025-2028
 
 Teaching
 ======
-Data Fusion and Intelligent Analysis（数据融合与智能分析）
+Data Fusion and Intelligent Analysis【数据融合与智能分析】
 
-Experiment of Data Fusion and Intelligent Analysis （数据融合与智能分析实验）
+Experiment of Data Fusion and Intelligent Analysis 【数据融合与智能分析实验】
+
+Algorithm Design and Analysis【算法设计与分析（英文授课）】
 
 Contact
 ------
