@@ -40,6 +40,7 @@ Previous research interests:
 
 News
 ======
+- I am happy to be invited as the Session Chair of the Experience Sharing on "AI+" Talent Cultivation Session in the 2025 International Academic Special Event on Intelligent Systems and Big Data Science hosted by Jiangsu Province Department of Education.
 - I am happy to join the Jiangsu Computer Society Big Data Technical Committee.
 - I have 2 fundings granted, **NSFC Youth Program** and **the Jiangsu Province Foundation for Young Scientists**. The total funding is ￥500,000.
 - We have 2 research papers accepted by the top conference [CIKM 2025](https://cikm2025.org/) (**CCF B, CORE A**).
