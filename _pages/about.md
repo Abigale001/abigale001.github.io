@@ -88,7 +88,11 @@ Data Fusion and Intelligent Analysis【数据融合与智能分析】
 
 Experiment of Data Fusion and Intelligent Analysis 【数据融合与智能分析实验】
 
+Algorithm Design and Analysis【算法设计与分析】
+
 Algorithm Design and Analysis【算法设计与分析（英文授课）】
+
+Graph Data Mining and Applications 【图数据分析与应用（研究生课程）】
 
 Contact
 ------
