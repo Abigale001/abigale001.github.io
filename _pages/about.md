@@ -40,6 +40,7 @@ Previous research interests:
 
 News
 ======
+- 	❗️	❗️	❗️CALL FOR PAPERS! We organized a Special Issue, "[Computer Vision and Machine Learning: Real-World Applications](https://www.mdpi.com/journal/electronics/special_issues/NUH9HG1S4C)". Open for submission. 
 - I am invited as a PC Member of IJCAI 2026, and ECCV 2026.
 - I am happy to be awarded the **Overseas Talent Recruitment Program**.  
 - I am happy to be invited as the Session Chair of the Experience Sharing on "AI+" Talent Cultivation Session in the 2025 International Academic Special Event on Intelligent Systems and Big Data Science hosted by Jiangsu Province Department of Education.
