@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yicong Li is an Associate Professor at Nanjing University of Aeronautics and Astronautics (NUAA), serves as Assistant Minister in the Organization Department, and is awarded the **Overseas Talent Recruitment Program**. She has graduated from the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate) in 2024. During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, the collaborative supervisors are [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
+Yicong Li is an Associate Professor at Nanjing University of Aeronautics and Astronautics (NUAA), serves as Assistant Minister in the Organization Department, and is awarded the **Overseas Talent Recruitment Program**. She has graduated from the [Data Science and Machine Intelligence (DSMI)](http://dsmi.tech/) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://scholar.google.com/citations?user=kcrdCq4AAAAJ&hl=en), [Dr. Hongxu Chen](https://scholar.google.com/citations?user=W3CtDGQAAAAJ&hl=en), and [Dr. Xiangguo Sun](https://scholar.google.com/citations?hl=zh-TW&user=rKfYQwEAAAAJ&view_op=list_works&sortby=pubdate) in 2024. During from Sep. 2022 to Apr. 2024, she was a visiting student at The Hong Kong Polytechnic University, with collaborative supervisors [Dr. Yu Yang](https://scholar.google.com/citations?user=Gk07OsAAAAAJ&hl=zh-CN) and [Prof. Jiannong Cao](https://scholar.google.com/citations?user=q2jH-3sAAAAJ&hl=zh-CN).
 
 She obtained her Master's degree from the National University of Defense Technology in Dec 2019. The supervisors were Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
@@ -17,7 +17,7 @@ She obtained her Master's degree from the National University of Defense Technol
 $$\textcolor{red}{Recurting!\space I\space am\space actively\space recruiting\space self-motivated\space MSc\space and\space Research\space Assistants.\space Send\space me\space an\space email\space if\space you\space are\space interested.}$$
 -->
 
-🔥	**Recruiting! I am actively recruiting self-motivated MSc and Research Assistants. Send me email if you are interested.**
+🔥	**Recruiting! I am actively recruiting self-motivated MSc and Research Assistants. Send me an email if you are interested.**
 
 🔥	**常年招计算机科学与技术、计算机技术专业硕士生，以及本校实习生，可提前参与科研。**
 
@@ -40,6 +40,11 @@ Previous research interests:
 
 News
 ======
+- We have 3 research papers accepted by the top conference [IJCAI2026](https://2026.ijcai.org/) (**CCF A, CORE A***).
+    * FairTCD: Dual-Teacher Temporal Contrastive Distillation for Twofold Fair Dynamic Graph Embedding
+    * SCOPE: Safety-Constrained Online Preview Enforcement for Efficient Encirclement in Multi-UAV Pursuit-Evasion
+    * Shot-Conditioned Vision-Language Adaptation for Effective Harmful Content Detection from Online Short Videos
+- 	❗️	❗️	❗️CALL FOR PAPERS! We organized an international conference, [BESC](https://besc-conf.org/2026/call-for-main-track). Open for submission. 
 - 	❗️	❗️	❗️CALL FOR PAPERS! We organized a Special Issue, "[Computer Vision and Machine Learning: Real-World Applications](https://www.mdpi.com/journal/electronics/special_issues/NUH9HG1S4C)". Open for submission. 
 - I am invited as a PC Member of IJCAI 2026, and ECCV 2026.
 - I am happy to be awarded the **Overseas Talent Recruitment Program**.  
