@@ -40,6 +40,7 @@ Previous research interests:
 
 News
 ======
+- I am invited as a PC Member of CIKM 2026, and ICDM 2026.
 - We have 3 research papers accepted by the top conference [IJCAI2026](https://2026.ijcai.org/) (**CCF A, CORE A***).
     * FairTCD: Dual-Teacher Temporal Contrastive Distillation for Twofold Fair Dynamic Graph Embedding
     * SCOPE: Safety-Constrained Online Preview Enforcement for Efficient Encirclement in Multi-UAV Pursuit-Evasion
