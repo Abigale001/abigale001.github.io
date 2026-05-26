@@ -19,7 +19,7 @@ $$\textcolor{red}{Recurting!\space I\space am\space actively\space recruiting\sp
 
 🔥	**Recruiting! I am actively recruiting self-motivated MSc and Research Assistants. Send me an email if you are interested.**
 
-🔥	**常年招计算机科学与技术、计算机技术专业硕士生，以及本校实习生，可提前参与科研。**
+🔥	**常年招计算机科学与技术学术硕士生、计算机技术、软件工程等专业硕士生，以及本校实习生，可提前参与科研。**
 
 Research Interests
 ======
